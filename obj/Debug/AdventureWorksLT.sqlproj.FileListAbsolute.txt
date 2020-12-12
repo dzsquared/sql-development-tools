@@ -1,0 +1,10 @@
+c:\Users\drewk\Documents\SQLSaturday\AdventureWorksLT\bin\Debug\AdventureWorksLT.dacpac
+c:\Users\drewk\Documents\SQLSaturday\AdventureWorksLT\bin\Debug\AdventureWorksLT.dll
+c:\Users\drewk\Documents\SQLSaturday\AdventureWorksLT\bin\Debug\AdventureWorksLT.pdb
+c:\Users\drewk\Documents\SQLSaturday\AdventureWorksLT\obj\Debug\AdventureWorksLT.sqlprojAssemblyReference.cache
+c:\Users\drewk\Documents\SQLSaturday\AdventureWorksLT\obj\Debug\Model.xml
+c:\Users\drewk\Documents\SQLSaturday\AdventureWorksLT\obj\Debug\refactor.xml
+c:\Users\drewk\Documents\SQLSaturday\AdventureWorksLT\obj\Debug\postdeploy.sql
+c:\Users\drewk\Documents\SQLSaturday\AdventureWorksLT\obj\Debug\predeploy.sql
+c:\Users\drewk\Documents\SQLSaturday\AdventureWorksLT\obj\Debug\AdventureWorksLT.dll
+c:\Users\drewk\Documents\SQLSaturday\AdventureWorksLT\obj\Debug\AdventureWorksLT.pdb

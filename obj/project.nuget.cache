@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQqXJEY2g4Vfxru+3IP8Hd31wLmTFsv78cCKwyyJ64jvTJTYQGe/isY7I8gwZblrRQRVgAB4ps+zwQzHP6LdKQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\drewk\\Documents\\SQLSaturday\\AdventureWorksLT\\AdventureWorksLT.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drewk\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\drewk\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
