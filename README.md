@@ -1,13 +1,24 @@
 # Materials for SQL Development in a Developer's World
-[Slide deck](SQLSaturday1017.pdf)
+[Slide deck](Presentation/SQLSaturday1017.pdf)
 
 ## Abstract
 Database development tooling is evolving to meet the demands of modern application development methods, including automated pipelines, cross-platform environments, and multi-dimensional architectures.  Whether you are familiar with SQL Server Data Tools (SSDT) or new to SQL projects, the SQL Database Projects extension is worth a look because it combines the Azure Data Studio interface with declarative database development capabilities. Beyond Azure Data Studio, the command line application SqlPackage.exe is a powerful tool for extracting and publishing database schemas. Add in a little magic* and let your imagination run wild with the opportunities to create efficiencies in your development workflow.
 
 *= not actual magic
 
+## Getting Started
+Fork this repository and clone to your workstation or jump right into remote application development with Codespaces from your fork.
 
-## Description
+### In Azure Data Studio with Database Projects
+After cloning your fork to your local workstation, open `AdventureWorksLT.code-workspace` in Azure Data Studio from the SQL database projects extension.
+
+### In VS Code with .NET Core application
+- After cloning your fork to your local workstation, open the folder in VS Code and use the command `Remote Containers: Rebuild and Reopen in Container`, which creates the development containers and deploys the AdventureWorksLT dacpac to the SQL container.
+- After forking the repository, create a new Codespace from the repository, which creates the development containers and deploys the AdventureWorksLT dacpac to the SQL container - in GitHub.
+
+![Codespace](Presentation/codespace.png)
+
+## devcontainer Description
 This definition creates two containers, one for C# (.NET Core) and one for Microsoft SQL.  VS Code will attach to the .NET Core container, and from within that container the Microsoft SQL container will be available on **`localhost`** port 1433. By default, the `sa` user password is `P@ssw0rd`. For more on the configuration of MS SQL, see the section [MS SQL Configuration](#MS-SQL-Configuration)
 
 
