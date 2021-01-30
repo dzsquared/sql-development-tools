@@ -1,10 +1,8 @@
-# Materials for SQL Development in a Developer's World
-[Slide deck](Presentation/SQLSaturday1017.pdf)
+# Materials Related to Tools for SQL Development
+- [Slide deck for SQL Saturday #1017](Presentation/SQLSaturday1017.pdf)
+- [Slide deck for C# SQL Server Conference](Presentation/CSharpCorner.pdf)
 
-## Abstract
-Database development tooling is evolving to meet the demands of modern application development methods, including automated pipelines, cross-platform environments, and multi-dimensional architectures.  Whether you are familiar with SQL Server Data Tools (SSDT) or new to SQL projects, the SQL Database Projects extension is worth a look because it combines the Azure Data Studio interface with declarative database development capabilities. Beyond Azure Data Studio, the command line application SqlPackage.exe is a powerful tool for extracting and publishing database schemas. Add in a little magic* and let your imagination run wild with the opportunities to create efficiencies in your development workflow.
-
-*= not actual magic
+**Documentation for SQL Database Projects in Azure Data Studio: [https://aka.ms/azuredatastudio-sqlprojects](https://aka.ms/azuredatastudio-sqlprojects)**
 
 ## Getting Started
 Fork this repository and clone to your workstation or jump right into remote application development with Codespaces from your fork.
